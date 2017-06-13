@@ -1,0 +1,22 @@
+=========PARAMETER_FILE=============
+image_sequence_path = /home/mathew/Documents/Dataset/vot2014/car/
+image_extension = .jpg
+is_color = 0
+groundtruth_file_name = groundtruth.txt
+output_dir_name = images/
+patch_width = 5
+patch_height = 5
+block_width = 5
+block_height = 5
+stride_x = 1
+stride_y = 1
+frame_rate = 30
+no_of_clusters = 150
+-----STOCHASTIC_SEARCH-----
+no_of_samples = 10
+no_rlc = 5
+no_rri = 5
+max_itr = 2
+
+
+	
